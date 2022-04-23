@@ -1,107 +1,139 @@
 <!-- wp:heading {"level":1} -->
 <h1>
-		Chetan Kumar 
+		Did you...
 	</h1>
 <!-- /wp:heading -->
 
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://procraz.demos.wpbeaverbuilder.com/wp-content/uploads/sites/15/2015/12/procraz-intro.png" alt="PicsArt_04-05-02.56.45" title="PicsArt_04-05-02.56.45"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>
+	...by any chance, arrive at this site via a bunch of random links &amp; stories?<br>
+If that's the case, we have made an app just for you.<br>
+It's called ProCraz and we think you will like it.
+			<a href="#section1" target="_self" role="button" rel="noopener">
+							Learn more
+					</a>
+			23,567
+	</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>ProCraz Users</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>
+			38,761
+	</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Patterns Collected</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>
+			1,236,129
+	</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Stories Delivered</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://procraz.demos.wpbeaverbuilder.com/wp-content/uploads/sites/15/2015/12/procraz-stories.png" alt=""/></figure>
+<!-- /wp:image -->
+
 <!-- wp:heading -->
-<h2>
-		WEB DEVELOPER
-	</h2>
+<h2>Is procrastination really that bad?</h2>
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We can't say, but we do know a lot of people are using a lot of time doing it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With our new app, procrastination has suddenly become science (because we analyze stuff).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And, the really good news? You can suddenly become a scientist instead of being a procrastinator.<a href="#section2" target="_self" role="button" rel="noopener">
+							Learn even more
+					</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>I really wanted to write a long review about this awesome application, but something came in the way. Bottomline, the app works really well and I am happy I purchased it.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://procraz.demos.wpbeaverbuilder.com/wp-content/uploads/sites/15/2015/12/procraz-steps.png" alt=""/></figure>
+<!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
-<h3>
-		EDUCATION
-	</h3>
+<h3>Connect</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa repellendus adipisci laborum placeat delectus labore cupiditate deserunt minus numquam consequatur esse, hic at earum illo animi eaque et, dolorem quo qui eos? Quam rerum possimus maxime veniam aut ratione eveniet aliquid cumque aspernatur ipsum libero quaerat, nam. Ad, sunt, error!</p>
+<p>When ProCraz is running, it will try and connect to our datahub. The app can detect wifi hotspots, LAN connections, satellites, badly passworded smartphones, etc.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3>
-		EXPERIENCE
-	</h3>
+<h3>Collect</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa repellendus adipisci laborum placeat delectus labore cupiditate deserunt minus numquam consequatur esse, hic at earum illo animi eaque et, dolorem quo qui eos? Quam rerum possimus maxime veniam aut ratione eveniet aliquid cumque aspernatur ipsum libero quaerat, nam. Ad, sunt, error!
-		40
-</p>
+<p>ProCraz will collect irrelevant usage aka procrastination patterns, from all connected devices in the world. This happens without any interference at all.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5>
-		HOURS PER WEEK
-	</h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>
-		101,410
-</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5>
-		LINES OF CODE
-	</h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>
-		8,210
-</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5>
-		GIT COMMITS
-	</h5>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>
-		406,840
-</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":5} -->
-<h5>
-		WORDPRESS DOWNLOADS
-	</h5>
-<!-- /wp:heading -->
 
 <!-- wp:heading {"level":3} -->
-<h3>
-		SOME OF MY PROJECTS
-	</h3>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"level":5} -->
-<h5>
-		AWESOME WORKS THAT I'VE CONTRIBUTED TO. PROUDLY!
-	</h5>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"level":3} -->
-<h3>
-		WHAT CLIENTS SAY?
-	</h3>
+<h3>Analyze</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>"Lacinia neque platea ipsum amet est odio aenean id quisque."</strong><strong>-&nbsp;KELLY MURRY</strong>ACME&nbsp;Inc.		
-			</p>
+<p>All incoming data is analyzed and the most exciting and relevant info we keep for ourselves. The rest of the data is returned to our users.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>ProCraZ Free Version</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p> Absolutely free </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li role="listitem">Basic connection types</li><li role="listitem">Limited collection radius</li><li role="listitem">20 new stories each day</li><li role="listitem">Limited save for later function</li><li role="listitem">Only text stories</li><li role="listitem">Some commercials</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="#intro" target="_self" role="button" rel="noopener">
+							Get the Free Version
+					</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>ProCraZ Science Version</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p> $9.99 per Month</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li role="listitem">All connection types</li><li role="listitem">Worldwide collection radius</li><li role="listitem">Unlimited new stories each day</li><li role="listitem">Save and share your favorite stuff</li><li role="listitem">Several media types</li><li role="listitem">No commercials</li><li role="listitem">Content translated on the fly</li><li role="listitem">Custom profile and scorecard</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="#intro" target="_self" role="button" rel="noopener">
+							Get the Science Version
+					</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>"Aliquam congue lacinia turpis proin sit nulla mattis semper."</strong><strong>-&nbsp;JEREMY LARSON</strong>ACME&nbsp;Inc.		
-			</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>"Fermentum habitasse tempor sit et rhoncus, a morbi ultrices!"</strong><strong>-&nbsp;ERIC HART</strong>ACME&nbsp;Inc.</p>
+<p>© 2016 ProCraz Inc.</p>
 <!-- /wp:paragraph -->
